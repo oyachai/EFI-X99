@@ -96,7 +96,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<string>1</string>
+			<integer>1</integer>
 		</dict>
 		<key>FakeID</key>
 		<dict>
@@ -135,6 +135,7 @@
 		<array>
 			<string>BOOTX64.EFI</string>
 			<string>Windows</string>
+			<string>Preboot</string>
 		</array>
 		<key>Language</key>
 		<string>en:0</string>
